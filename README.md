@@ -13,7 +13,7 @@ A collation of content on different IaC tools in the market - namely: OpenTofu, 
 
 - [What is Terraform?](https://developer.hashicorp.com/terraform/intro)
 - [Hashicorp Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials?product_intent=terraform)
-- [How to use Terraform as a team by Gruntworks](https://blog.gruntwork.io/how-to-use-terraform-as-a-team-251bc1104973)
+- [How to use Terraform as a team by Gruntwork](https://blog.gruntwork.io/how-to-use-terraform-as-a-team-251bc1104973)
 - [Collaboration Patterns for Network Infrastructure as Code with HashiCorp Terraform Cloud - Video](https://www.youtube.com/watch?v=b2kbdW2m-cc)
 - [Terraform Automation and Collaboration tools (Head to head, by Digger)](https://tacosheadtohead.com/)
 
