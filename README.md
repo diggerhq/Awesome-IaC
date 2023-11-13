@@ -48,5 +48,5 @@ A collation of content on different IaC tools in the market - namely: OpenTofu, 
 - [Terraform? Pulumi? Helm? Kustomize? Ansible? None Of Those? (Could be biased as it is by Upbound - creators of Crossplane)]( https://www.youtube.com/watch?v=0yB4GiI5O28)
 
 
-_The content in this repo was collated by [Digger](https://github.com/diggerhq/digger), an Open Source IaC management platform for OpenTofu and Terraform. Digger runs in your own CI, effectively enabling you to "bring your own compute" so that you don't pay for it twice. Digger helps in the orchestration - enabling collaboration and automation, drift detection and remediation, RBAC via OPA and concurrent runs. Feel free to book a [demo](https;//bit.ly/diggerpro) if you're keen on checking out Digger pro._
+_The content in this repo was collated by [Digger](https://github.com/diggerhq/digger), an Open Source IaC management platform for OpenTofu and Terraform. Digger runs in your own CI, effectively enabling you to "bring your own compute" so that you don't pay for it twice. Digger helps in the orchestration - enabling collaboration and automation, drift detection and remediation, RBAC via OPA and concurrent runs. Feel free to book a [demo](https://bit.ly/diggerpro) if you're keen on checking out Digger pro._
 
