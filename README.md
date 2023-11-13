@@ -1,5 +1,5 @@
 # Awesome-IaC
-A collation of content on different IaC tools in the market, namely OpenTofu, Terraform, Pulumi, Crossplane and Winglang
+A collation of content on different IaC tools in the market - namely: OpenTofu, Terraform, Pulumi, Crossplane and Winglang.
 
 # OpenTofu
 
@@ -41,7 +41,12 @@ A collation of content on different IaC tools in the market, namely OpenTofu, Te
 - [“I used Wing-cloud to build a website, here are my takeaways”](https://medium.com/gitconnected/i-used-wing-cloud-to-build-a-website-here-are-my-takeaways-4cfb52758e94)
 - [“Rethinking Infrastructure as Code from scratch by Nathan Peck"](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 
+
 # Content Offering comparison of the entire IaC landscape
 
 - [Terraform vs Pulumi vs Crossplane (Video)](https://www.youtube.com/watch?v=RaoKcJGchKM)
 - [Terraform? Pulumi? Helm? Kustomize? Ansible? None Of Those? (Could be biased as it is by Upbound - creators of Crossplane)]( https://www.youtube.com/watch?v=0yB4GiI5O28)
+
+
+_The content in this repo was collated by [Digger](https://github.com/diggerhq/digger), an Open Source IaC management platform for OpenTofu and Terraform. Digger runs in your own CI, effectively enabling you to "bring your own compute" so that you don't pay for it twice. Digger helps in the orchestration - enabling collaboration and automation, drift detection and remediation, RBAC via OPA and concurrent runs. Feel free to book a [demo](https;//bit.ly/diggerpro) if you're keen on checking out Digger pro._
+
